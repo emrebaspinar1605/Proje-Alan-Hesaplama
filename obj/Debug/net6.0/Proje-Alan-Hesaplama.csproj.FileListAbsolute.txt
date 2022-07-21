@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\bin\Debug\net6.0\Proje-Alan-Hesaplama.exe
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\bin\Debug\net6.0\Proje-Alan-Hesaplama.deps.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\bin\Debug\net6.0\Proje-Alan-Hesaplama.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\bin\Debug\net6.0\Proje-Alan-Hesaplama.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\bin\Debug\net6.0\Proje-Alan-Hesaplama.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\refint\Proje-Alan-Hesaplama.dll
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.pdb
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\Proje-Alan-Hesaplama.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\MiniProjects\Proje-Alan-Hesaplama\obj\Debug\net6.0\ref\Proje-Alan-Hesaplama.dll
